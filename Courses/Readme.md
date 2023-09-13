@@ -1,1 +1,1 @@
-The file contains all the courses taken till the end of 4th semester (i.e. the end of 2nd year) as well as the CGPA(Cumulative Grade point Average) at the end of second year and is certified by the parent Institute
+The file contains all the courses taken till the end of the 4th semester (i.e. the end of the 2nd year) as well as the CGPA(Cumulative Grade point Average) at the end of the second year and is certified by the parent Institute.
